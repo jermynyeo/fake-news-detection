@@ -1,3 +1,9 @@
+# Fake News Detector
+
+[Medium Article](https://medium.com/clement-ong/fake-news-detection-4713eb3b1cd6)
+
+### User Guide
+
 1) Compiled.ipynb is to show the whole flow of our analysis (without output). The process is as follow : 
 2) EDA and Preprocessing is the exploration to understand our dataset prior to analysis and creation of dataframes of the policitcs dataset  
 3) TopicModelling is used to generate the topic distribution for both politics and entertainment domain
